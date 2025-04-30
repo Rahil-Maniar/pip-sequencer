@@ -1,0 +1,3 @@
+[console_scripts]
+pip-sequencer = pip_sequencer.cli:main
+pseq = pip_sequencer.cli:main

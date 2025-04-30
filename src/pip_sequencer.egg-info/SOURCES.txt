@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/pip_sequencer/__init__.py
+src/pip_sequencer/cli.py
+src/pip_sequencer/history.py
+src/pip_sequencer/recorder.py
+src/pip_sequencer.egg-info/PKG-INFO
+src/pip_sequencer.egg-info/SOURCES.txt
+src/pip_sequencer.egg-info/dependency_links.txt
+src/pip_sequencer.egg-info/entry_points.txt
+src/pip_sequencer.egg-info/requires.txt
+src/pip_sequencer.egg-info/top_level.txt
